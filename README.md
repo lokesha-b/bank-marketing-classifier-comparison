@@ -79,7 +79,7 @@ Assignment_17_GitHub/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/comparing-classifiers.git
+git clone https://github.com/lokesha-b/bank-marketing-classifier-comparison
 cd comparing-classifiers
 ```
 
