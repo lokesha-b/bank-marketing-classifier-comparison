@@ -64,7 +64,7 @@ Decision Trees showed signs of overfitting (high training accuracy, lower test a
 ## Project Structure
 
 ```
-Assignment_17_GitHub/
+bank-marketing-classifier-comparison/
 ├── README.md                 # Project overview and findings
 ├── requirements.txt          # Python dependencies
 ├── .gitignore               # Git ignore file
