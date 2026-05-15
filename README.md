@@ -112,15 +112,3 @@ jupyter notebook notebooks/prompt_III.ipynb
 - seaborn
 - scikit-learn
 
-## Author
-
-UC Berkeley Program Assignment
-
-## License
-
-This project is for educational purposes.
-
-## Acknowledgments
-
-- [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/bank+marketing) for the dataset
-- [Moro et al., 2014](https://www.sciencedirect.com/science/article/pii/S016792361400061X) for the dataset paper
